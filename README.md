@@ -18,7 +18,4 @@ Here are some ideas to get you started:
 💻 I’m currently learning Computer Science
 
 
-💌 How to reach me: aerimforest98@gmail.com
-
-
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)

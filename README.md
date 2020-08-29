@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)
+
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)

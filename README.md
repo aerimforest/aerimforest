@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aerimforest/aerimforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I’m currently learning Computer Science
+### Major
+
+- Computer Science   
 
 
+
+### Personal Blog
+
+- https://aerimforest.tistory.com/
+
+- https://aerimforest.github.io/
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)

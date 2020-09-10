@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - Computer Science   
 
 
----
 
 
 ### Personal Blog
@@ -28,8 +27,6 @@ Here are some ideas to get you started:
 
 - https://aerimforest.github.io/
 
-
----
 
 
 ### Solved.ac

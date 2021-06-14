@@ -13,21 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aerimforest&label=Profile%20views&color=0e75b6&style=flat"/></p>
+<a href="https://github.com/aerimforest" target="blank"><img align="left" src="icons/LI-In-Bug.png" width="22px" /></a>
+<a href="https://github.com/aerimforest" target="blank"><img align="left" src="icons/gmail.png" width="22px" /></a>
+<br/>
+
 ### Major
-
-
 - Computer Science   
-
-
-
+<br/>
 
 ### Personal Blog
 
 - https://aerimforest.tistory.com/
-
-
-
-
+<br/>
 
 ### Solved.ac
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)   

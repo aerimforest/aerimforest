@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aerimforest&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <a href="https://www.linkedin.com/in/aerimforest/" target="blank"><img align="left" src="icons/LI-In-Bug.png" width="22px" /></a>
 <a href="mailto:aerimforest98@gmail.com" target="blank"><img align="left" src="icons/gmail.png" width="22px" /></a>
-<br/>
+<br/><br/>
 
 ### 🔖&nbsp;&nbsp;Major
 - Computer Science   

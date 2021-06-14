@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br/>
 
 ### ✏️&nbsp;&nbsp;Personal Blog
-- https:/aerimforest.tistory.com
+- https://aerimforest.tistory.com
 <br/>
 
 ### 🪴&nbsp;&nbsp;Solved.ac

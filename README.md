@@ -18,12 +18,17 @@ Here are some ideas to get you started:
 <a href="mailto:aerimforest98@gmail.com" target="blank"><img align="left" src="icons/gmail.png" width="22px" /></a>
 <br/>
 
-### Major
+### 🔖&nbsp;&nbsp;Major
 - Computer Science   
 <br/>
 
-### Personal Blog
+### 🎖&nbsp;&nbsp;Recent achievements
+- Winning the 8th K-Hackathon Korea Contents Association Award (2nd place)
+  ###### 제 8회 k-해커톤 한국콘텐츠학회장상 수상
+  ###### 수상 프로젝트: [주섬주섬-일상의 분리배출 도우미](https://github.com/ZOOSUMX2/ZOOSUMX2_Android)
+<br/>
 
+### ✏️&nbsp;&nbsp;Personal Blog
 - https://aerimforest.tistory.com/
 <br/>
 

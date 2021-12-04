@@ -16,7 +16,8 @@
   ###### 수상 프로젝트: [주섬주섬-일상의 분리배출 도우미](https://github.com/ZOOSUMX2/ZOOSUMX2_Android)
 <br/>
 
-### ✏️&nbsp;&nbsp;Personal Blog
+
+### <img width="20" alt="앱아이콘" src="https://img.icons8.com/ios/250/FFFFFF/edit.png">&nbsp;&nbsp;Personal Blog
 - https://aerimforest.tistory.com
 <br/>
 

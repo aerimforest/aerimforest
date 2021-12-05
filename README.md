@@ -1,12 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=607DEF&height=250&section=header&text=YERIM%20KIM&fontSize=80&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&fontColor=FFFFFF)
 <img src="https://komarev.com/ghpvc/?username=aerimforest&label=Profile%20views&color=0e75b6&style=flat"/>&nbsp;&nbsp;
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;
+
+### About Me
+- I am passionate about `app development`, `education` and `design`
+- I am majoring in `computer science` at `Sookmyung Women's University`
+- `Javascript Tutor` in `Wizlive`(January 2021 ~ )
+</br></br></br>
+
+### Contact Me
 <a href="https://www.linkedin.com/in/aerimforest" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn"></a>&nbsp;&nbsp;
 <a href="mailto:aerimforest98@gmail.com"><img src="http://img.shields.io/badge/-Gmail-27282C?style=flat&logo=Gmail"></a>&nbsp;&nbsp;
 <a href="https://aerimforest.tistory.com" target="_blank"><img src="http://img.shields.io/badge/-Blog-27282C?style=flat&logo=Bloglovin"></a>
-</br></br>
+</br></br></br>
 
-### 🛠&nbsp;&nbsp;Skills & Tools
+### Skills & Tools
 <p align="start">
 <img src="http://img.shields.io/badge/-Android-27282C?style=flat&logo=Android">
 <img src="http://img.shields.io/badge/-Kotlin-27282C?style=flat&logo=Kotlin">
@@ -20,13 +28,7 @@
 <img src="http://img.shields.io/badge/-JavaScript-27282C?style=flat&logo=JavaScript">
 <img src="http://img.shields.io/badge/-Swift-27282C?style=flat&logo=Swift">
 </p>
-<br/>
-
-### <img width="20" alt="앱아이콘" src="https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon1/mi-trophy.svg">&nbsp;&nbsp;Recent achievements
-- Winning the 8th K-Hackathon Korea Contents Association Award (2nd place)
-  ###### 제 8회 k-해커톤 한국콘텐츠학회장상 수상
-  ###### 수상 프로젝트: [주섬주섬-일상의 분리배출 도우미](https://github.com/ZOOSUMX2/ZOOSUMX2_Android)
-<br/>
+<br/></br></br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerimforest&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true)

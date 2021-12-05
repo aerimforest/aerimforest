@@ -7,6 +7,22 @@
 <a href="mailto:aerimforest98@gmail.com" target="blank"><img align="left" src="icons/gmail.png" width="22px" /></a>
 <br/><br/>
 
+### 🛠&nbsp;&nbsp;Stack & Tools
+<p align="start">
+<img src="http://img.shields.io/badge/-Android-27282C?style=flat&logo=Android">
+<img src="http://img.shields.io/badge/-Kotlin-27282C?style=flat&logo=Kotlin">
+<img src="http://img.shields.io/badge/-Java-27282C?style=flat&logo=Java">
+<img src="http://img.shields.io/badge/-C++-27282C?style=flat&logo=C++">
+<img src="http://img.shields.io/badge/-C-27282C?style=flat">
+<img src="http://img.shields.io/badge/-Python-27282C?style=flat&logo=Python">
+<img src="http://img.shields.io/badge/-Django-27282C?style=flat&logo=Django">
+<img src="http://img.shields.io/badge/-Firebase-27282C?style=flat&logo=Firebase">
+<img src="http://img.shields.io/badge/-Figma-27282C?style=flat&logo=Figma">
+<img src="http://img.shields.io/badge/-JavaScript-27282C?style=flat&logo=JavaScript">
+<img src="http://img.shields.io/badge/-Swift-27282C?style=flat&logo=Swift">
+</p>
+<br/>
+
 
 ### <img width="20" alt="앱아이콘" src="https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon1/mi-education.svg">&nbsp;&nbsp;Major
 - Computer Science   

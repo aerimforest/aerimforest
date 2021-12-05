@@ -30,5 +30,5 @@
 </p>
 <br/></br></br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerimforest&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerimforest&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true&hide_rank=true)
 <br/><br/>

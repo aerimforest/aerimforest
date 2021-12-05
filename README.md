@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=607DEF&height=250&section=header&text=YERIM%20KIM&fontSize=80&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=607DEF&height=250&section=header&text=YERIM%20KIM&fontSize=80&animation=fadeIn&fontAlignY=40&descAlignY=51&descAlign=62&fontColor=FFFFFF)
 <img src="https://komarev.com/ghpvc/?username=aerimforest&label=Profile%20views&color=0e75b6&style=flat"/>&nbsp;&nbsp;
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;
 
 ## About Me
-- I am passionate about `app development`, `education` and `design`
+- I am passionate about `📱app development`, `📚education` and `🎨design`
 - I am majoring in `computer science` at `Sookmyung Women's University`
 - `Javascript Tutor` in `Wizlive`(January 2021 ~ )
 </br></br></br>

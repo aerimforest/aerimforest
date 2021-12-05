@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=607DEF&height=250&section=header&text=YERIM%20KIM&fontSize=80&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&fontColor=FFFFFF)
 <img src="https://komarev.com/ghpvc/?username=aerimforest&label=Profile%20views&color=0e75b6&style=flat"/>&nbsp;&nbsp;
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)   
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;
+<img src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn">&nbsp;&nbsp;
+<img src="http://img.shields.io/badge/-Gmail-27282C?style=flat&logo=Gmail">&nbsp;&nbsp;
+<img src="http://img.shields.io/badge/-Blog-27282C?style=flat&logo=Bloglovin&link=https://aerimforest.tistory.com"></br></br>
 
-
-<a href="https://www.linkedin.com/in/aerimforest/" target="blank"><img align="left" src="icons/LI-In-Bug.png" width="22px" /></a>
-<a href="mailto:aerimforest98@gmail.com" target="blank"><img align="left" src="icons/gmail.png" width="22px" /></a>
-<br/><br/>
-
-### 🛠&nbsp;&nbsp;Stack & Tools
+### 🛠&nbsp;&nbsp;Skills & Tools
 <p align="start">
 <img src="http://img.shields.io/badge/-Android-27282C?style=flat&logo=Android">
 <img src="http://img.shields.io/badge/-Kotlin-27282C?style=flat&logo=Kotlin">
@@ -34,19 +32,6 @@
   ###### 수상 프로젝트: [주섬주섬-일상의 분리배출 도우미](https://github.com/ZOOSUMX2/ZOOSUMX2_Android)
 <br/>
 
-
-### <img width="20" alt="앱아이콘" src="https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon1/mi-edit.svg">&nbsp;&nbsp;Personal Blog
-- https://aerimforest.tistory.com
-<br/>
-
-### <img width="20" alt="앱아이콘" src="https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon1/mi-thumbs-up.svg">&nbsp;&nbsp;Solved.ac
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)   
-<br/>
-
-### GitHub stats
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerimforest&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true)
 <br/><br/>
-
-### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerimforest&hide=html&langs_count=3&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) 
-

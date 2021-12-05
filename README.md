@@ -21,6 +21,13 @@
 - https://aerimforest.tistory.com
 <br/>
 
-
 ### <img width="20" alt="앱아이콘" src="https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon1/mi-thumbs-up.svg">&nbsp;&nbsp;Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)   
+<br/>
+
+### GitHub stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerimforest&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true)
+<br/><br/>
+
+### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerimforest&hide=html&langs_count=3&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)

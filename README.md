@@ -3,7 +3,8 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;
 <img src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn">&nbsp;&nbsp;
 <img src="http://img.shields.io/badge/-Gmail-27282C?style=flat&logo=Gmail">&nbsp;&nbsp;
-<img src="http://img.shields.io/badge/-Blog-27282C?style=flat&logo=Bloglovin&link=https://aerimforest.tistory.com"></br></br>
+<a href="https://aerimforest.tistory.com"><img src="http://img.shields.io/badge/-Blog-27282C?style=flat&logo=Bloglovin"></a>
+</br></br>
 
 ### 🛠&nbsp;&nbsp;Skills & Tools
 <p align="start">

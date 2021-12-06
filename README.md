@@ -27,6 +27,7 @@
 <img src="http://img.shields.io/badge/-JavaScript-27282C?style=flat&logo=JavaScript">
 <img src="http://img.shields.io/badge/-Swift-27282C?style=flat&logo=Swift">
 <img src="http://img.shields.io/badge/-Figma-27282C?style=flat&logo=Figma">
+  <img src="http://img.shields.io/badge/-Git-27282C?style=flat&logo=Git">
 </p>
 <br/></br></br>
 

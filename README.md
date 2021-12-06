@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=607DEF&height=250&section=header&text=YERIM%20KIM&fontSize=80&animation=fadeIn&fontAlignY=40&descAlignY=51&descAlign=62&fontColor=FFFFFF)
-<img src="https://komarev.com/ghpvc/?username=aerimforest&label=Profile%20views&color=0e75b6&style=flat"/>&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=aerimforest&label=Profile%20views&color=0e75b6&style=flat&color=607DEF"/>&nbsp;&nbsp;
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;
 
 ### About Me
@@ -31,4 +31,4 @@
 <br/></br></br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;&nbsp;&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerimforest&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerimforest&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true&hide_rank=true&title_color=607DEF&icon_color=607DEF)

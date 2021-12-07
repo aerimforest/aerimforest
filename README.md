@@ -5,7 +5,7 @@
 ### About Me
 - I am passionate about `📱app development`, `📚education` and `🎨design`
 - I am majoring in `computer science` at `Sookmyung Women's University`
-- `Javascript Tutor` in `Wizlive`
+- `Tutor` in `Wizlive`
 </br></br></br>
 
 ### Contact Me

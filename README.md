@@ -25,7 +25,6 @@
 <img src="http://img.shields.io/badge/-Python-27282C?style=flat&logo=Python">
 <img src="http://img.shields.io/badge/-Django-27282C?style=flat&logo=Django">
 <img src="http://img.shields.io/badge/-Firebase-27282C?style=flat&logo=Firebase">
-<img src="http://img.shields.io/badge/-JavaScript-27282C?style=flat&logo=JavaScript">
 <img src="http://img.shields.io/badge/-Swift-27282C?style=flat&logo=Swift">
 <img src="http://img.shields.io/badge/-Figma-27282C?style=flat&logo=Figma">
   <img src="http://img.shields.io/badge/-Git-27282C?style=flat&logo=Git">

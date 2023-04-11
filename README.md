@@ -5,7 +5,7 @@
 ### About Me
 - I am passionate about `📱app development`, `📚education` and `🎨design`
 - I am majoring in `computer science` at `Sookmyung Women's University`
-- I love `taking pictures`. Take a look! [@film__forest](https://www.instagram.com/film__forest/)
+- I love `taking pictures`. Take a look! [@film__forest](https://www.instagram.com/makeitevergreen_/)
 </br></br></br>
 
 ### Contact Me

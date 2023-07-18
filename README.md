@@ -3,8 +3,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;
 
 ### About Me
-- I am passionate about `📱app development`, `📚education` and `🎨design`
-- I am majoring in `computer science` at `Sookmyung Women's University`
+- I am passionate about `📱app development` and `🎨design`
 - I love `taking pictures`. Take a look! [@makeitevergreen_](https://www.instagram.com/makeitevergreen_/)
 </br></br></br>
 

@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=607DEF&height=230&section=header&text=YERIM%20KIM&fontSize=70&animation=fadeIn&fontAlignY=40&descAlignY=51&descAlign=62&fontColor=FFFFFF)
 <img src="https://komarev.com/ghpvc/?username=aerimforest&label=Profile%20views&color=0e75b6&style=flat&color=607DEF"/>&nbsp;&nbsp;
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)&nbsp;&nbsp;  
+</br>   
 
 ### About Me
+- `Android developer` at KB Kookmin Bank
 - I am passionate about `📱app development` and `🎨design`
 - I love `taking pictures`. Take a look! [@makeitevergreen_](https://www.instagram.com/makeitevergreen_/)
 </br></br></br>
